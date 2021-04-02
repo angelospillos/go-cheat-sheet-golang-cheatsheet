@@ -47,6 +47,16 @@ u := uint(f)
 
 ```
 
+# Basic Loop
+```
+	sum := 0
+	for i := 0; i < 10; i++ {
+		sum += i
+	}
+	fmt.Println(sum)
+
+```
+
 # Basic Syntax
 
 ## Hello World
