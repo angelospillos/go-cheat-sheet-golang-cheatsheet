@@ -27,6 +27,15 @@ complex64 complex128
 
 ```
 
+# Basic Coversions
+
+```
+i := 42
+f := float64(i)
+u := uint(f)
+
+```
+
 # Basic Syntax
 
 ## Hello World
