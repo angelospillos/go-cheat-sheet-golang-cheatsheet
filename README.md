@@ -4,6 +4,9 @@
 
 ```
 
+const Pi = 3.14
+
+
 	var i int
 	var f float64
 	var b bool
