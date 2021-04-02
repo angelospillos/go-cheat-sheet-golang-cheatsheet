@@ -3,6 +3,12 @@
 # Basic Types
 
 ```
+
+	var i int
+	var f float64
+	var b bool
+	var s string
+	
 bool
 
 string
