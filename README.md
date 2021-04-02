@@ -57,6 +57,14 @@ u := uint(f)
 
 ```
 
+# Basic While
+```
+	sum := 1
+	for sum < 1000 {
+		sum += sum
+	}
+```
+
 # Basic Syntax
 
 ## Hello World
