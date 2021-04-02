@@ -36,6 +36,14 @@ u := uint(f)
 
 ```
 
+# Basic Print
+
+```
+	fmt.Printf("v is of type %T\n", v)
+
+
+```
+
 # Basic Syntax
 
 ## Hello World
